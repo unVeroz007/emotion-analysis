@@ -1,0 +1,20 @@
+{
+    "best_model": "SVM (Linear)",
+    "best_model_metrics": {
+        "test_accuracy": 0.9443393471553903,
+        "test_f1": 0.9449153988404905,
+        "test_precision": 0.9466272687567566,
+        "test_recall": 0.9443393471553903
+    },
+    "dataset_info": {
+        "total_samples": 393813,
+        "train_samples": 315050,
+        "test_samples": 78763,
+        "n_classes": 6
+    },
+    "preprocessing_info": {
+        "vectorizer_features": 5000,
+        "preprocessor_type": "TextPreprocessor"
+    },
+    "timestamp": "2025-12-23 17:46:30"
+}
